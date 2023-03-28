@@ -1,0 +1,11 @@
+@import "normalize.css";
+@import "./fonts.scss";
+@import './base.scss';
+
+#app {
+  max-width: 1200px;
+  margin: 72px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
